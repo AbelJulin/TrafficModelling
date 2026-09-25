@@ -1,6 +1,6 @@
 # Traffic Modelling & Comparison
 
-## 📖 Project Overview
+## Project Overview
 This project is a mathematical modeling simulation of 1-dimensional traffic flow. It was designed to study how vehicles interact on an open road based on the distance and speed of the vehicle directly ahead of them. 
 
 Instead of relying on a single approach, this repository **combines and compares different mathematical methods** to evaluate their realism and behavior.
